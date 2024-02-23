@@ -129,7 +129,7 @@ const UpdateProfile = () => {
                   <FormLabel className="shad-form_label">Username</FormLabel>
                   <FormControl>
                     <Input
-                    s
+                    
                       type="text"
                       className="shad-input"
                       {...field}
